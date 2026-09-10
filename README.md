@@ -57,14 +57,6 @@ I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldw07&show_icons=true&theme=radical" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://linkedin.com/in/ronaldwen)
