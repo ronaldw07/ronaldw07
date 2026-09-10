@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvine**. I spend more time in eval harnesses and RN debuggers than a single job title would suggest — training classifiers on 85K-sample corpora one week, tuning camera gesture thresholds for beta testers the next.
+I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvine**. I like building things people actually use — whether that's contributing to an open-source scheduler my school runs on or shipping camera features to beta testers. Right now I'm focused on product engineering/management, and going deeper on AI/ML.
 
 ---
 
@@ -28,7 +28,7 @@ I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvi
   *Tool-calling research agent with vector-embedded memory; 70% recall@1 on a 130+ test evaluation harness, containerized with Docker.*
 
 - [**AntAlmanac**](https://github.com/ronaldw07/AntAlmanac)
-  *Course exploration and scheduling tool used by UC Irvine students.*
+  *Course exploration and scheduling tool used by UC Irvine students — active open-source contributor, work in progress.*
 
 - [**FraudGuard**](https://github.com/ronaldw07/FraudGuard)
   *Fraud detection platform with XGBoost, FastAPI, React, and SHAP explainability.*
