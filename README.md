@@ -41,6 +41,20 @@ I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvi
 
 ---
 
+## 🔔 Boring Notch — Upgraded Fork
+
+[Boring Notch](https://github.com/ronaldw07/boring.notch) turns the MacBook notch into a useful widget bar, but the upstream backlog of issues and PRs had stalled. Rather than wait, I forked it and started shipping the fixes and features myself.
+
+**[View my fork →](https://github.com/ronaldw07/boring.notch)**
+
+- **Real-time audio visualizer** — plus a smoother, more accurate scrubbing bar for the music progress
+- **Clipboard section** — expandable, with per-item delete
+- **Timer & stopwatch** — built directly into the notch
+- **Camera over calendar** — swapped the default calendar view for a live camera panel, moving calendar elsewhere
+- **Sharing/storage panel** — horizontal scroll with per-item delete ("x")
+
+---
+
 ## 🌟 Skills
 
 ### 🖥️ Languages
