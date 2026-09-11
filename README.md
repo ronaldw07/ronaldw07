@@ -22,26 +22,7 @@ I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvi
 
 ---
 
-## 🚀 Projects
-
-- [**Mindtrail**](https://github.com/ronaldw07/mindtrail)
-  *Tool-calling research agent with vector-embedded memory; 70% recall@1 on a 130+ test evaluation harness, containerized with Docker.*
-
-- [**AntAlmanac**](https://github.com/ronaldw07/AntAlmanac)
-  *Course exploration and scheduling tool used by UC Irvine students — active open-source contributor, work in progress.*
-
-- [**FraudGuard**](https://github.com/ronaldw07/FraudGuard)
-  *Fraud detection platform with XGBoost, FastAPI, React, and SHAP explainability.*
-
-- [**ml-flashpoint**](https://github.com/ronaldw07/ml-flashpoint)
-  *Memory-first, lightning-fast ML checkpointing library. Contributed 2 PRs*
-
-- [**hospital-readmission-prediction**](https://github.com/ronaldw07/hospital-readmission-prediction)
-  *Ensemble models predicting 30-day readmissions from EHR data, with SHAP explainability.*
-
----
-
-## 🔔 Boring Notch — Upgraded Fork
+## 🔔 Featured Project: Boring Notch
 
 [Boring Notch](https://github.com/ronaldw07/boring.notch) turns the MacBook notch into a useful widget bar, but the upstream backlog of issues and PRs had stalled. Rather than wait, I forked it and started shipping the fixes and features myself.
 
@@ -59,6 +40,29 @@ I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvi
   <img src="assets/boring-notch/timer-stopwatch.png" width="23%" />
   <img src="assets/boring-notch/sharing-storage.png" width="23%" />
 </p>
+
+---
+
+## 🚀 Projects
+
+- [**Mindtrail**](https://github.com/ronaldw07/mindtrail)
+  *Tool-calling research agent with vector-embedded memory; 70% recall@1 on a 130+ test evaluation harness, containerized with Docker.*
+
+- [**FraudGuard**](https://github.com/ronaldw07/FraudGuard)
+  *Fraud detection platform with XGBoost, FastAPI, React, and SHAP explainability.*
+
+- [**hospital-readmission-prediction**](https://github.com/ronaldw07/hospital-readmission-prediction)
+  *Ensemble models predicting 30-day readmissions from EHR data, with SHAP explainability.*
+
+---
+
+## 🤝 Open Source Contributions
+
+- [**AntAlmanac**](https://github.com/ronaldw07/AntAlmanac)
+  *Course exploration and scheduling tool used by UC Irvine students — active contributor, work in progress.*
+
+- [**ml-flashpoint**](https://github.com/ronaldw07/ml-flashpoint)
+  *Memory-first, lightning-fast ML checkpointing library. Contributed 2 PRs.*
 
 ---
 
