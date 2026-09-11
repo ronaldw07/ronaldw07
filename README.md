@@ -34,7 +34,7 @@ I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvi
   *Fraud detection platform with XGBoost, FastAPI, React, and SHAP explainability.*
 
 - [**ml-flashpoint**](https://github.com/ronaldw07/ml-flashpoint)
-  *Memory-first, lightning-fast ML checkpointing library.*
+  *Memory-first, lightning-fast ML checkpointing library. Contributed 2 PRs*
 
 - [**hospital-readmission-prediction**](https://github.com/ronaldw07/hospital-readmission-prediction)
   *Ensemble models predicting 30-day readmissions from EHR data, with SHAP explainability.*
