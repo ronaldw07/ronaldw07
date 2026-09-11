@@ -61,8 +61,8 @@ I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvi
 - [**AntAlmanac**](https://github.com/ronaldw07/AntAlmanac)
   *Course exploration and scheduling tool used by UC Irvine students — active contributor, work in progress.*
 
-- [**ml-flashpoint**](https://github.com/ronaldw07/ml-flashpoint)
-  *Memory-first, lightning-fast ML checkpointing library. Contributed 2 PRs.*
+- [**ml-flashpoint**](https://github.com/ronaldw07/ml-flashpoint) — Google's open-source ML checkpointing library
+  *Refactored the Megatron adapter, extracting save logic into a reusable helper (66% fewer lines), and abstracted 5 `torch.distributed` APIs via dependency injection to enable deterministic unit testing across 5 test files.*
 
 ---
 
