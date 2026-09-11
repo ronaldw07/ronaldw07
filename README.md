@@ -53,6 +53,13 @@ I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvi
 - **Camera over calendar** — swapped the default calendar view for a live camera panel, moving calendar elsewhere
 - **Sharing/storage panel** — horizontal scroll with per-item delete ("x")
 
+<p align="center">
+  <img src="assets/boring-notch/audio-visualizer.png" width="23%" />
+  <img src="assets/boring-notch/clipboard.png" width="23%" />
+  <img src="assets/boring-notch/timer-stopwatch.png" width="23%" />
+  <img src="assets/boring-notch/sharing-storage.png" width="23%" />
+</p>
+
 ---
 
 ## 🌟 Skills
