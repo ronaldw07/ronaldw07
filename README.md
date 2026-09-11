@@ -19,6 +19,7 @@ I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvi
 - 🔬 **Applied ML Fellow, Chewy AI Studio** — evaluating classifiers for AI-generated text detection under adversarial paraphrasing
 - 📱 **Product & Software Engineer, Framelight AI** — real-time camera guidance and gesture control in React Native, shipped to 100+ beta testers
 - 🤖 **AI/ML Fellow, Break Through Tech** — ai/ml pipelines and mentorship
+- 🗓️ **Software Contributor, AntAlmanac** — UC Irvine's course scheduling tool
 
 ---
 
