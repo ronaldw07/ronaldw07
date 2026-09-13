@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science + Informatics** student, Statistics minor, at **UC Irvine**. I like building things people actually use — whether that's contributing to an open-source scheduler my school runs on or shipping camera features to beta testers. Right now I'm focused on product engineering/management, and going deeper on AI/ML.
+I'm a **Computer Science + Informatics** & Statistics minor student at **UC Irvine**. I like building things people actually use — whether that's contributing to an open-source scheduler my school runs on or shipping camera features to beta testers. Right now I'm focused on product engineering/management, and going deeper on AI/ML.
 
 ---
 
