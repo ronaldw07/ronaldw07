@@ -33,6 +33,7 @@ I'm a **Computer Science + Informatics** & Statistics minor student at **UC Irvi
 - **Synced lyrics panel** — scrolls with the song, scrub it with two fingers or a mouse wheel, click a line to jump there
 - **Clipboard section** — expandable, with per-item delete
 - **Timer & stopwatch** — built directly into the notch
+- **Pause on mute** — music pauses when the system audio mutes, resumes on unmute
 - **Camera, calendar, or lyrics** — pick one to sit beside the music player, toggled right from the notch header
 - **Shelf** — drag files in, pin the ones worth keeping, and drag out multiple at once
 
