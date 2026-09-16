@@ -34,7 +34,7 @@ I'm a **Computer Science + Informatics** & Statistics minor student at **UC Irvi
 - **Clipboard section** — expandable, with per-item delete
 - **Timer & stopwatch** — built directly into the notch
 - **Camera, calendar, or lyrics** — pick one to sit beside the music player, toggled right from the notch header
-- **Sharing/storage panel** — horizontal scroll with per-item delete ("x")
+- **Shelf** — drag files in, pin the ones worth keeping, and drag out multiple at once
 
 <p align="center">
   <img src="assets/boring-notch/audio-visualizer.png" width="23%" />
