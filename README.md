@@ -30,6 +30,7 @@ I'm a **Computer Science + Informatics** & Statistics minor student at **UC Irvi
 **[View my fork →](https://github.com/ronaldw07/boring.notch)**
 
 - **Real-time audio visualizer** — plus a smoother, more accurate scrubbing bar for the music progress
+- **Synced lyrics panel** — scrolls with the song, scrub it with two fingers or a mouse wheel, click a line to jump there
 - **Clipboard section** — expandable, with per-item delete
 - **Timer & stopwatch** — built directly into the notch
 - **Camera over calendar** — swapped the default calendar view for a live camera panel, moving calendar elsewhere
