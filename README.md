@@ -33,7 +33,7 @@ I'm a **Computer Science + Informatics** & Statistics minor student at **UC Irvi
 - **Synced lyrics panel** — scrolls with the song, scrub it with two fingers or a mouse wheel, click a line to jump there
 - **Clipboard section** — expandable, with per-item delete
 - **Timer & stopwatch** — built directly into the notch
-- **Camera over calendar** — swapped the default calendar view for a live camera panel, moving calendar elsewhere
+- **Camera, calendar, or lyrics** — pick one to sit beside the music player, toggled right from the notch header
 - **Sharing/storage panel** — horizontal scroll with per-item delete ("x")
 
 <p align="center">
