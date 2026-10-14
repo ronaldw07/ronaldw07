@@ -23,7 +23,7 @@ I'm a **Computer Science + Informatics** student at **UC Irvine**. I like buildi
 
 ---
 
-## 🔔 Featured Project: Boring Notch
+## 🔔 Featured Project: Boring Notch (Fork)
 
 [Boring Notch](https://github.com/ronaldw07/boring.notch) turns the MacBook notch into a useful widget bar, but the upstream backlog of issues and PRs had stalled. Rather than wait, I forked it and started shipping the fixes and features myself.
 
