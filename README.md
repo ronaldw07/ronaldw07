@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-ronaldpreppilot.vercel.app" style="background-color: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; display: inline-block;">Portfolio</a>
+  <a href="https://ronaldwen.vercel.app" style="background-color: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; display: inline-block;">Portfolio</a>
 </p>
 
 ---
@@ -23,25 +23,22 @@ I'm a **Computer Science + Informatics** student at **UC Irvine**. I like buildi
 
 ---
 
-## 🔔 Featured Project: Boring Notch (Fork)
+## 🔔 Featured Project: Chora
 
-[Boring Notch](https://github.com/ronaldw07/boring.notch) turns the MacBook notch into a useful widget bar, but the upstream backlog of issues and PRs had stalled. Rather than wait, I forked it and started shipping the fixes and features myself.
+**[Chora](https://ronaldw07.github.io/chora-site/)** turns the MacBook notch into a place to get small things done: a per-app volume mixer, a calendar you can edit, a timer and a music player, one glance away. I lead it end to end, from deciding what belongs in the notch to designing each tab, building it in Swift, and shipping it.
 
-**[View my fork →](https://github.com/ronaldw07/boring.notch)**
+- **Product call:** the notch is the most visible space on a Mac and most apps leave it empty, while everyday controls are scattered across apps. Chora's rule is one glance, one action: if it needs a full window, it doesn't go in the notch.
+- **Shipped steadily:** 19 versions since September 2026, each with a plain-language changelog that becomes the in-app update note and the website's "What's new".
+- **Runs its own release pipeline:** signed builds and in-app auto-updates, so every fix reaches users without a reinstall.
+- **Roadmap from users:** a public "Coming soon" list, a feedback form and a Discord decide what gets built next.
+- **Latest:** a phone-style calendar that runs top to bottom, with a notch you can drag taller.
 
-- **Real-time audio visualizer** — plus a smoother, more accurate scrubbing bar for the music progress
-- **Synced lyrics panel** — scrolls with the song, scrub it with two fingers or a mouse wheel, click a line to jump there
-- **Clipboard section** — expandable, with per-item delete
-- **Timer & stopwatch** — built directly into the notch
-- **Pause on mute** — music pauses when the system audio mutes, resumes on unmute
-- **Camera, calendar, or lyrics** — pick one to sit beside the music player, toggled right from the notch header
-- **Shelf** — drag files in, pin the ones worth keeping, and drag out multiple at once
+**[Website](https://ronaldw07.github.io/chora-site/)** · **[Download](https://github.com/ronaldw07/boring.notch/releases/latest/download/Chora.dmg)** · **[Source](https://github.com/ronaldw07/boring.notch)** · *Built on the open-source [boring.notch](https://github.com/TheBoredTeam/boring.notch).*
 
 <p align="center">
-  <img src="assets/boring-notch/audio-visualizer.png" width="23%" />
-  <img src="assets/boring-notch/clipboard.png" width="23%" />
-  <img src="assets/boring-notch/timer-stopwatch.png" width="23%" />
-  <img src="assets/boring-notch/sharing-storage.png" width="23%" />
+  <img src="https://ronaldw07.github.io/chora-site/shots/volume.png" width="32%" />
+  <img src="https://ronaldw07.github.io/chora-site/shots/calendar.png" width="32%" />
+  <img src="https://ronaldw07.github.io/chora-site/shots/music.png" width="32%" />
 </p>
 
 ---
