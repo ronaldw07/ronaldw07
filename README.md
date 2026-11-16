@@ -28,10 +28,10 @@ I'm a **Computer Science + Informatics** student at **UC Irvine**. I like buildi
 **[Chora](https://ronaldw07.github.io/chora-site/)** turns the MacBook notch into a place to get small things done: a per-app volume mixer, a calendar you can edit, a timer and a music player, one glance away. I lead it end to end, from deciding what belongs in the notch to designing each tab, building it in Swift, and shipping it.
 
 - **Product call:** the notch is the most visible space on a Mac and most apps leave it empty, while everyday controls are scattered across apps. Chora's rule is one glance, one action: if it needs a full window, it doesn't go in the notch.
-- **Shipped steadily:** 19 versions since September 2026, each with a plain-language changelog that becomes the in-app update note and the website's "What's new".
+- **Shipped steadily:** 20 versions since September 2026, each with a plain-language changelog that becomes the in-app update note and the website's "What's new".
 - **Runs its own release pipeline:** signed builds and in-app auto-updates, so every fix reaches users without a reinstall.
 - **Roadmap from users:** a public "Coming soon" list, a feedback form and a Discord decide what gets built next.
-- **Latest:** a phone-style calendar that runs top to bottom, with a notch you can drag taller.
+- **Latest:** add a calendar event by typing it in plain words, with a preview of exactly what will be created, plus one-click Join for video calls.
 
 **[Website](https://ronaldw07.github.io/chora-site/)** · **[Download](https://github.com/ronaldw07/boring.notch/releases/latest/download/Chora.dmg)** · **[Source](https://github.com/ronaldw07/boring.notch)** · *Built on the open-source [boring.notch](https://github.com/TheBoredTeam/boring.notch).*
 
