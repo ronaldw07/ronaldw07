@@ -28,10 +28,10 @@ I'm a **Computer Science + Informatics** student at **UC Irvine**. I like buildi
 **[Chora](https://getchora.vercel.app/)** turns the MacBook notch into a place to get small things done: a per-app volume mixer, a calendar you can edit, a timer and a music player, one glance away. I lead it end to end, from deciding what belongs in the notch to designing each tab, building it in Swift, and shipping it.
 
 - **Product call:** the notch is the most visible space on a Mac and most apps leave it empty, while everyday controls are scattered across apps. Chora's rule is one glance, one action: if it needs a full window, it doesn't go in the notch.
-- **Shipped steadily:** 27 versions since September 2026, each with a plain-language changelog that becomes the in-app update note and the website's "What's new".
+- **Shipped steadily:** 28 versions since September 2026, each with a plain-language changelog that becomes the in-app update note and the website's "What's new".
 - **Runs its own release pipeline:** signed builds and in-app auto-updates, so every fix reaches users without a reinstall.
 - **Roadmap from users:** a public "Coming soon" list, a feedback form and a Discord decide what gets built next.
-- **Latest:** edits save instantly with one Undo that reaches Google too, events can switch calendar and color while editing, plus custom repeats, copy and paste, a heads-up in the notch five minutes before each event, and Google Tasks on every day.
+- **Latest:** up to five timers running at once with the soonest one in the closed notch, stopwatch laps, an adjustable close delay, and a visualizer that follows you across output devices, on top of a calendar where every edit saves instantly with one Undo that reaches Google too.
 
 **[Website](https://getchora.vercel.app/)** · **[Download](https://github.com/ronaldw07/boring.notch/releases/latest/download/Chora.dmg)** · **[Source](https://github.com/ronaldw07/boring.notch)** · *Built on the open-source [boring.notch](https://github.com/TheBoredTeam/boring.notch).*
 
